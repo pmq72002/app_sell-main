@@ -1,5 +1,5 @@
-export const ApiUrl = 'https://maximo-curviest-undeliberatively.ngrok-free.dev';
-export const ApiUrl_Image = 'https://maximo-curviest-undeliberatively.ngrok-free.dev';
+export const ApiUrl = 'http://192.168.0.102:8000/api/';
+export const ApiUrl_Image = 'http://192.168.0.102:8000';
 
 export const api_url = {
   LOGIN: 'auth/login',
