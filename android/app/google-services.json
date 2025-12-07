@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979818438723",
+    "project_id": "hao-424921",
+    "storage_bucket": "hao-424921.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979818438723:android:6128e6cc68c4b1e338b4f6",
+        "android_client_info": {
+          "package_name": "com.react_native_student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3WFhQAJjcdyMwKIzE78GdqI4qBvj2oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
